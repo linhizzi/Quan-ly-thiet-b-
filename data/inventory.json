@@ -1,3 +1,35 @@
 {
-  "records": []
+  "records": [
+    {
+      "id": "ee493e9b441249d9a82e3d0375b17f53",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "251050",
+        "Tên Bưu cục": "VP BĐT",
+        "Họ và tên người sử dụng": "Nguyễn Mạnh Linh",
+        "Mã HRM": "00229473",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "CC5021",
+        "Tên máy (Hostname)": "TNN-KTNV-LinhNM",
+        "Loại máy": "Desktop",
+        "Hãng": "DNA",
+        "Model": "DNA",
+        "Năm sản xuất": "2024",
+        "Serial Number": "",
+        "CPU": "i3-12100",
+        "RAM": "24 GB",
+        "Ổ cứng": "SSD 240Gb",
+        "Hệ điều hành": "Win 10 64bit",
+        "Office": "office 365",
+        "Antivirus": "Kaspersky",
+        "IP Address": "10.23.64.186",
+        "MAC Address": "10-FF-E0-72-90-E2"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T06:20:51",
+      "updatedAt": "2026-06-17T06:20:51"
+    }
+  ]
 }
