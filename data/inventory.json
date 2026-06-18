@@ -61,6 +61,37 @@
       "attachments": [],
       "createdAt": "2026-06-18T01:36:31",
       "updatedAt": "2026-06-18T01:36:31"
+    },
+    {
+      "id": "a24de6fcb0eb4fdbb056b60cb2a08565",
+      "category": "4A. Máy In Laser",
+      "fields": {
+        "Mã Tỉnh": "25",
+        "Tên Tỉnh": "Thái Nguyên",
+        "Mã BĐ Xã": "2505",
+        "Tên Xã": "Bưu điện phường Quán Triều",
+        "Mã Bưu cục": "254230",
+        "Tên Bưu cục": "VHX Sơn Cẩm",
+        "Họ và tên người sử dụng": "ĐINH THỊ HẬU",
+        "Mã HRM": "00059159",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "CC207240",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in (Khối Sản xuất)",
+        "Khổ giấy": "",
+        "Hãng": "Canon",
+        "Model": "Canon 2900",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Kết nối": "USB",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:38:34",
+      "updatedAt": "2026-06-18T01:38:34"
     }
   ]
 }
