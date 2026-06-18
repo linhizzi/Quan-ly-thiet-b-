@@ -30,6 +30,37 @@
       "attachments": [],
       "createdAt": "2026-06-17T06:20:51",
       "updatedAt": "2026-06-17T06:25:03"
+    },
+    {
+      "id": "ae28db500498453b984a752df515df03",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2505",
+        "Tên Xã": "Bưu điện phường Quán Triều",
+        "Mã Bưu cục": "254230",
+        "Tên Bưu cục": "VHX Sơn Cẩm",
+        "Họ và tên người sử dụng": "ĐINH THỊ HẬU",
+        "Mã HRM": "00059159",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "DELL Optiplex 3040",
+        "Loại máy": "Desktop",
+        "Hãng": "DELL Optiplex",
+        "Model": "DELL Optiplex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Core i3-6100T",
+        "RAM": "4",
+        "Ổ cứng": "SSD 120GB",
+        "Hệ điều hành": "Win 10 64bit",
+        "Office": "office 2010",
+        "Antivirus": "Kaspersky",
+        "IP Address": "",
+        "MAC Address": "16-66-DA-28-CB-E7"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:36:31",
+      "updatedAt": "2026-06-18T01:36:31"
     }
   ]
 }
