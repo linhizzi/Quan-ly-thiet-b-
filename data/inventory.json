@@ -92,6 +92,43 @@
       "attachments": [],
       "createdAt": "2026-06-18T01:38:34",
       "updatedAt": "2026-06-18T01:38:34"
+    },
+    {
+      "id": "d3b4e69e6ddd40a4bd1466940a61aafc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2531",
+        "Tên Xã": "Văn Hán",
+        "Mã Bưu cục": "252590",
+        "Tên Bưu cục": "VHX Văn Hán",
+        "Họ và tên người sử dụng": "Phạm Thị Lan",
+        "Mã HRM": "chưa có",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "CC5021",
+        "Tên máy (Hostname)": "TNN-2531-VH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell",
+        "Model": "dell inspiron 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Pentium(R) Gold G5400",
+        "RAM": "8Gb",
+        "Ổ cứng": "SSD 120Gb",
+        "Hệ điều hành": "Win 10 64bit",
+        "Office": "office 2016",
+        "Antivirus": "Kaspersky",
+        "IP Address": "",
+        "MAC Address": "‎8C-EC-4B-8F-37-27"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon/Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T06:36:04",
+      "updatedAt": "2026-06-19T06:36:04"
     }
   ]
 }
